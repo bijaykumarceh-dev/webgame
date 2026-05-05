@@ -1,53 +1,112 @@
-# HTML/CSS and JavaScript Games 🎮
+# 🎮 HTML CSS JavaScript Games Collection
 
-This repository contains a collection of HTML, CSS, and JavaScript games. 🎯🕹
+**30 Fun Games Built with HTML, CSS & JavaScript**
 
-|  #  | Game                                                                                                                           | Live Demo                                                                                           |
-| :-: | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
-| 01  | [Candy Crush Game](https://github.com/he-is-talha/html-css-javascript-games/tree/main/01-Candy-Crush-Game)                     | [Live Demo](https://he-is-talha.github.io/html-css-javascript-games/01-Candy-Crush-Game/)           |
-| 02  | [Archery Game](https://github.com/he-is-talha/html-css-javascript-games/tree/main/02-Archery-Game)                             | [Live Demo](https://he-is-talha.github.io/html-css-javascript-games/02-Archery-Game/)               |
-| 03  | [Speed Typing Game](https://github.com/he-is-talha/html-css-javascript-games/tree/main/03-Speed-Typing-Game)                   | [Live Demo](https://he-is-talha.github.io/html-css-javascript-games/03-Speed-Typing-Game/)          |
-| 04  | [Breakout Game](https://github.com/he-is-talha/html-css-javascript-games/tree/main/04-Breakout-Game)                           | [Live Demo](https://he-is-talha.github.io/html-css-javascript-games/04-Breakout-Game/)              |
-| 05  | [Minesweeper Game](https://github.com/he-is-talha/html-css-javascript-games/tree/main/05-Minesweeper-Game)                     | [Live Demo](https://he-is-talha.github.io/html-css-javascript-games/05-Minesweeper-Game/)           |
-| 06  | [Tower Blocks Game](https://github.com/he-is-talha/html-css-javascript-games/tree/main/06-Tower-Blocks)                        | [Live Demo](https://he-is-talha.github.io/html-css-javascript-games/06-Tower-Blocks/)               |
-| 07  | [Ping Pong Game](https://github.com/he-is-talha/html-css-javascript-games/tree/main/07-Ping-Pong-Game)                         | [Live Demo](https://he-is-talha.github.io/html-css-javascript-games/07-Ping-Pong-Game/)             |
-| 08  | [Tetris Game](https://github.com/he-is-talha/html-css-javascript-games/tree/main/08-Tetris-Game)                               | [Live Demo](https://he-is-talha.github.io/html-css-javascript-games/08-Tetris-Game/)                |
-| 09  | [Tilting Maze Game](https://github.com/he-is-talha/html-css-javascript-games/tree/main/09-Tilting-Maze-Game)                   | [Live Demo](https://he-is-talha.github.io/html-css-javascript-games/09-Tilting-Maze-Game/)          |
-| 10  | [Memory Card Game](https://github.com/he-is-talha/html-css-javascript-games/tree/main/10-Memory-Card-Game)                     | [Live Demo](https://he-is-talha.github.io/html-css-javascript-games/10-Memory-Card-Game/)           |
-| 11  | [Rock Paper Scissors Game](https://github.com/he-is-talha/html-css-javascript-games/tree/main/11-Rock-Paper-Scissors)          | [Live Demo](https://he-is-talha.github.io/html-css-javascript-games/11-Rock-Paper-Scissors/)        |
-| 12  | [Type Number Guessing Game](https://github.com/he-is-talha/html-css-javascript-games/tree/main/12-Type-Number-Guessing-Game)   | [Live Demo](https://he-is-talha.github.io/html-css-javascript-games/12-Type-Number-Guessing-Game/)  |
-| 13  | [Tic Tac Toe Game](https://github.com/he-is-talha/html-css-javascript-games/tree/main/13-Tic-Tac-Toe)                          | [Live Demo](https://he-is-talha.github.io/html-css-javascript-games/13-Tic-Tac-Toe/)                |
-| 14  | [Snake Game](https://github.com/he-is-talha/html-css-javascript-games/tree/main/14-Snake-Game)                                 | [Live Demo](https://he-is-talha.github.io/html-css-javascript-games/14-Snake-Game/)                 |
-| 15  | [Connect Four Game](https://github.com/he-is-talha/html-css-javascript-games/tree/main/15-Connect-Four-Game)                   | [Live Demo](https://he-is-talha.github.io/html-css-javascript-games/15-Connect-Four-Game/)          |
-| 16  | [Insect Catch Game](https://github.com/he-is-talha/html-css-javascript-games/tree/main/16-Insect-Catch-Game)                   | [Live Demo](https://he-is-talha.github.io/html-css-javascript-games/16-Insect-Catch-Game/)          |
-| 17  | [Typing Game](https://github.com/he-is-talha/html-css-javascript-games/tree/main/17-Typing-Game)                               | [Live Demo](https://he-is-talha.github.io/html-css-javascript-games/17-Typing-Game/)                |
-| 18  | [Hangman Game](https://github.com/he-is-talha/html-css-javascript-games/tree/main/18-Hangman-Game)                             | [Live Demo](https://he-is-talha.github.io/html-css-javascript-games/18-Hangman-Game/)               |
-| 19  | [Flappy Bird Game](https://github.com/he-is-talha/html-css-javascript-games/tree/main/19-Flappy-Bird-Game)                     | [Live Demo](https://he-is-talha.github.io/html-css-javascript-games/19-Flappy-Bird-Game/)           |
-| 20  | [Crossy Road Game](https://github.com/he-is-talha/html-css-javascript-games/tree/main/20-Crossy-Road-Game)                     | [Live Demo](https://he-is-talha.github.io/html-css-javascript-games/20-Crossy-Road-Game/)           |
-| 21  | [2048 Game](https://github.com/he-is-talha/html-css-javascript-games/tree/main/21-2048-Game)                                   | [Live Demo](https://he-is-talha.github.io/html-css-javascript-games/21-2048-Game/)                  |
-| 22  | [Dice Roll Simulator](https://github.com/he-is-talha/html-css-javascript-games/tree/main/22-Dice-Roll-Simulator)               | [Live Demo](https://he-is-talha.github.io/html-css-javascript-games/22-Dice-Roll-Simulator/)        |
-| 23  | [Shape Clicker Game](https://github.com/he-is-talha/html-css-javascript-games/tree/main/23-Shape-Clicker-Game)                 | [Live Demo](https://he-is-talha.github.io/html-css-javascript-games/23-Shape-Clicker-Game/)         |
-| 24  | [Typing Game](https://github.com/he-is-talha/html-css-javascript-games/tree/main/24-Typing-Game)                               | [Live Demo](https://he-is-talha.github.io/html-css-javascript-games/24-Typing-Game/)                |
-| 25  | [Speak Number Guessing Game](https://github.com/he-is-talha/html-css-javascript-games/tree/main/25-Speak-Number-Guessing-Game) | [Live Demo](https://he-is-talha.github.io/html-css-javascript-games/25-Speak-Number-Guessing-Game/) |
-| 26  | [Fruit Slicer Game](https://github.com/he-is-talha/html-css-javascript-games/tree/main/26-Fruit-Slicer-Game)                   | [Live Demo](https://he-is-talha.github.io/html-css-javascript-games/26-Fruit-Slicer-Game/)          |
-| 27  | [Quiz Game](https://github.com/he-is-talha/html-css-javascript-games/tree/main/27-Quiz-Game)                                   | [Live Demo](https://he-is-talha.github.io/html-css-javascript-games/27-Quiz-Game/)                  |
-| 28  | [Emoji Catcher Game](https://github.com/he-is-talha/html-css-javascript-games/tree/main/28-Emoji-Catcher-Game)                 | [Live Demo](https://he-is-talha.github.io/html-css-javascript-games/28-Emoji-Catcher-Game/)         |
-| 29  | [Whack A Mole Game](https://github.com/he-is-talha/html-css-javascript-games/tree/main/29-Whack-A-Mole-Game)                   | [Live Demo](https://he-is-talha.github.io/html-css-javascript-games/29-Whack-A-Mole-Game/)          |
-| 30  | [Simon Says Game](https://github.com/he-is-talha/html-css-javascript-games/tree/main/30-Simon-Says-Game)                       | [Live Demo](https://he-is-talha.github.io/html-css-javascript-games/30-Simon-Says-Game/)            |
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://bijaykumarceh-dev.github.io/webgame/)
 
-## Games Description
+## 📋 Games List
 
-1. **Candy Crush Game**: Enjoy the classic match-three puzzle game where you swap colored candies to create matches and clear levels. 🍬🍭
-2. **Archery Game**: Test your aim in this challenging archery game where precision and timing are key to hitting the bullseye. 🏹
-3. **Speed Typing Game**: Improve your typing speed and accuracy with this game that challenges you to type words quickly under time pressure. ⌨️
-4. **Breakout Game**: Relive the arcade classic where you use a paddle to bounce a ball and break bricks, aiming for a high score. 🎮
-5. **Minesweeper Game**: Exercise your logical thinking with this puzzle game where you avoid hidden mines and uncover safe tiles. 💣
-6. **Tower Blocks**: Build a tower by stacking blocks as high as possible without letting them topple over in this physics-based game. 🏗️
-7. **Ping Pong Game**: Experience the thrill of table tennis as you compete against an AI opponent in this classic sports game. 🏓
-8. **Tetris Game**: Arrange falling tetrominoes to create complete lines and score points in this addictive puzzle game. 🧱
-9. **Tilting Maze Game**: Navigate a ball through a tilting maze, avoiding traps and reaching the goal in this challenging game of skill. 🌀
-10. **Memory Card Game**: Test your memory by matching pairs of cards in this classic concentration game. 🃏
-11. **Rock Paper Scissors**: Play the timeless hand game against the computer and see who comes out victorious. ✂️
+| # | Game Name | Description |
+|---|-----------|-------------|
+| 01 | 🍬 Candy Crush Game | Match-3 puzzle game |
+| 02 | 🏹 Archery Game | Aim and shoot targets |
+| 03 | ⌨️ Speed Typing Game | Test your typing speed |
+| 04 | 🧱 Breakout Game | Classic brick breaker |
+| 05 | 💣 Minesweeper Game | Classic mine sweeper |
+| 06 | 🏗️ Tower Blocks | Stack blocks as high as possible |
+| 07 | 🏓 Ping Pong Game | Classic pong game |
+| 08 | 🧩 Tetris Game | Classic block puzzle |
+| 09 | 🌀 Tilting Maze Game | Navigate ball through maze |
+| 10 | 🎴 Memory Card Game | Memory matching game |
+| 11 | ✋ Rock Paper Scissors | Classic hand game |
+| 12 | 🔢 Type Number Guessing | Number guessing game |
+| 13 | ⭕ Tic Tac Toe | Classic 3x3 game |
+| 14 | 🐍 Snake Game | Classic snake game |
+| 15 | 🔴 Connect Four Game | Connect 4 pieces |
+| 16 | 🐛 Insect Catch Game | Catch flying insects |
+| 17 | ⌨️ Typing Game | Typing practice |
+| 18 | 🎮 Hangman Game | Word guessing game |
+| 19 | 🐦 Flappy Bird Game | Flappy bird clone |
+| 20 | 🚗 Crossy Road Game | Cross road safely |
+| 21 | 2️⃣ 2048 Game | Number puzzle game |
+| 22 | 🎲 Dice Roll Simulator | Dice rolling simulator |
+| 23 | 🔷 Shape Clicker Game | Click shapes game |
+| 24 | 📝 Typing Game | Another typing game |
+| 25 | 🎤 Speak Number Guessing | Voice number guessing |
+| 26 | 🔪 Fruit Slicer Game | Slice fruits |
+| 27 | ❓ Quiz Game | Quiz with questions |
+| 28 | 😊 Emoji Catcher Game | Catch falling emojis |
+| 29 | 🔨 Whack A Mole Game | Whack the moles |
+| 30 | 🟦 Simon Says Game | Memory pattern game |
+
+## 🚀 How to Play
+
+1. **Open the main page**: [index.html](index.html)
+2. **Choose any game** from the grid
+3. **Click "Play Now"** to start playing
+
+## 📁 Project Structure
+
+```
+webgame/
+├── index.html                 # Main games hub
+├── README.md                  # This file
+├── 01-Candy-Crush-Game/
+│   ├── index.html
+│   ├── script.js
+│   └── style.css
+├── 02-Archery-Game/
+│   └── ...
+└── 30-Simon-Says-Game/
+    ├── index.html
+    ├── script.js
+    └── style.css
+```
+
+## 🛠️ Technologies Used
+
+- **HTML5** - Structure
+- **CSS3** - Styling & Animations
+- **Vanilla JavaScript** - Game Logic
+
+## 🎯 Features
+
+- ✅ **30 Complete Games**
+- ✅ **Responsive Design**
+- ✅ **Mobile Friendly**
+- ✅ **No External Dependencies**
+- ✅ **Clean Code**
+- ✅ **Educational Examples**
+
+## 🌐 Live Demo
+
+**Visit:** https://bijaykumarceh-dev.github.io/webgame/
+
+## 📱 Mobile Support
+
+All games are optimized for mobile devices and work perfectly on phones and tablets.
+
+## 🤝 Contributing
+
+Feel free to contribute by:
+- Adding new games
+- Improving existing games
+- Fixing bugs
+- Adding new features
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+## 👨‍💻 Author
+
+**Bijay Kumar** - [GitHub](https://github.com/bijaykumarceh-dev)
+
+---
+
+**⭐ Star this repo if you found it helpful!**
+
+**🎮 Happy Gaming!**
 12. **Type Number Guessing Game**: Guess the hidden number based on clues provided after each guess in this number guessing game. 🔢
 13. **Tic Tac Toe**: Challenge a friend or AI in this simple yet strategic game of placing Xs and Os in a 3x3 grid. ⭕❌
 14. **Snake Game**: Control a growing snake, eat food, and avoid collisions with walls and your own tail in this nostalgic arcade game. 🐍
