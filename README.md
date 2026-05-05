@@ -51,6 +51,12 @@
 webgame/
 ├── index.html                 # Main games hub
 ├── README.md                  # This file
+├── APK_BUILD_README.md        # APK build instructions
+├── android-app/               # Cordova Android project
+│   ├── www/                  # Web content for APK
+│   ├── platforms/            # Android platform files
+│   ├── plugins/              # Cordova plugins
+│   └── config.xml            # Cordova configuration
 ├── 01-Candy-Crush-Game/
 │   ├── index.html
 │   ├── script.js
@@ -81,6 +87,33 @@ webgame/
 ## 🌐 Live Demo
 
 **Visit:** https://bijaykumarceh-dev.github.io/webgame/
+
+## 📱 Android APK (Mobile App)
+
+**🎮 Download & Play on Android!**
+
+### APK Features
+- ✅ **All 30 Games** in one mobile app
+- ✅ **Offline Play** - No internet required
+- ✅ **Touch Optimized** - Perfect mobile controls
+- ✅ **Fast Loading** - WebView optimized
+- ✅ **Easy Navigation** - Simple game selection
+
+### Download APK
+- **GitHub Releases**: Check the [Releases](https://github.com/bijaykumarceh-dev/webgame/releases) page
+- **Latest Version**: [v1.0.0](https://github.com/bijaykumarceh-dev/webgame/releases/tag/v1.0.0)
+
+### Build Your Own APK
+If you want to build the APK yourself:
+1. Follow the [APK Build Guide](APK_BUILD_README.md)
+2. Set up Android development environment
+3. Run `cordova build android` in the `android-app/` folder
+
+### Online APK Builders
+Can't set up the development environment? Use these free online services:
+- **BuildPhoneGap**: Upload the `android-app/www` folder
+- **Appy Pie**: Convert HTML to APK online
+- **Cordova Build**: Free PhoneGap Build service
 
 ## 📱 Mobile Support
 
